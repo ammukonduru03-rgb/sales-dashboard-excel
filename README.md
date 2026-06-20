@@ -73,6 +73,12 @@ Add your dashboard screenshot below:
 
 ---
 
+## Dashboard Demo
+
+A short demonstration of the dashboard has been shared on LinkedIn.
+
+LinkedIn Post: [https://www.linkedin.com/feed/update/urn:li:activity:7474023462131372032/]
+
 ## Project Structure
 
 ```text
